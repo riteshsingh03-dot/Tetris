@@ -22,6 +22,7 @@ This project is built collaboratively for practice:
 1. **Ritesh Singh**  
 2. **Pawan Asati**  
 3. **Abhinav Deval**  
+4. **Rishu Ray**
 
 ---
 
