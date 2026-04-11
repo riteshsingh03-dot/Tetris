@@ -55,3 +55,7 @@ This repository is under active development as a **practice playground**.
 Expect the code, features, and structure to keep evolving as we learn more...
 
 ---
+
+Our Goal: To make game without using any help of A.I.
+
+---
